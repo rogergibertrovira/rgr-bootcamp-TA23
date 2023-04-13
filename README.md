@@ -2,9 +2,9 @@
 SPRING Basics
 
 ### Endpoints
-1. Welcome: localhost:8080/
-2. Hello: localhost:8080/hello
-3. Hello (+name): localhost:8080/hello?name=Roger
+1. Welcome: https://localhost:8080/
+2. Hello: https://localhost:8080/hello
+3. Hello (+name): https://localhost:8080/hello?name=Roger
 
 ### Captura en ejecución
 
